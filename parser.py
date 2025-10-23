@@ -1,5 +1,5 @@
 import subprocess
-import os
+
 
 def main():
     output_file = "driverquery_output.txt"
